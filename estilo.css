@@ -1,0 +1,38 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+#t{
+    font-family: fantasy;
+    font-size: 20px;
+    color: white;
+}
+
+#cuerpo{
+    background-color: black;
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 30px;
+}
+tbody{
+    width: 90%;
+    color: white;
+    font-size: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
